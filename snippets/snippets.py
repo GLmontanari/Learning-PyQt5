@@ -7,6 +7,7 @@ from PyQt5.QtWidgets import QApplication, QWidget
 # from PyQt5.QtWidgets import QApplication, QWidget
 #
 
+
 class Window(QWidget):
 
     def __init__(self, parent=None):
