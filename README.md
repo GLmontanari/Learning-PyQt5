@@ -10,7 +10,7 @@ ToC
 ## Installation
 Basically all you need is PyQt5 which you can install via pip.
 
-Python 3.8
+Python 4
 PyQt5 5.15.0
 
 ## Usage
